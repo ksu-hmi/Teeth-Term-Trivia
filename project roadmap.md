@@ -7,10 +7,10 @@
 - [ ] Create 10 questions for Set 3 (Ashana)
 - [ ] Create 10 questions for Set 4 (Ziyah)
 
-## Sprint 2
+## Sprint 2 Checklist
 - [ ] Run and test code, check for errores and ensure for accuracy 
 
-## Sprint 3
+## Sprint 3 Checklist
 
 - [ ] Prepare a PowerPoint presentation 
 - [ ] Demonstrate the Teeth Term Trivia Game
