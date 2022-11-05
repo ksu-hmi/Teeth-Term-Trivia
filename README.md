@@ -9,3 +9,5 @@ The dental industry is one of the major medical industries that does not get as 
 # How it Works 
 
 This software will ask for the user's name before introducing them to the various components of the system. After each  response, points will be counted, and the user will be made aware of their score. The user will also have the option to choose another part to review or exit after answering all ten questions. The user also has the option to exit at any point in the game, if necessary.
+
+Team Members: Nicole O, Ziyah A, Ashana V, Jazmyne G
