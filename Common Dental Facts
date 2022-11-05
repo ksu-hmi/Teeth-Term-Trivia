@@ -1,0 +1,24 @@
+## dental health SET 1
+
+question1 = ("True or False: Brushing too hard can damage your tooth enamel.\n")
+question2 = ("True or False: There is no right way to floss.\n")
+question3 = ("True or False: Anyone can get a cavity.\n"")
+question4 = ("True or False: Cavitys are only caused by sweets.\n")
+question5 = ("True or False: Oral health affects your overall health\n")
+question6 = ("True or False: Bleeding Gums is a bad sign.\n")
+question7 = ("True or False: Brushing your teeth twice a day is enough to maintain good oral hygiene.\n")
+question8 = ("True or False: You should only use a toothbrush with “hard” bristles for effective cleaning.\n")
+question9 = ("True or False: When flossing, you need to simply move the floss up and down between your teeth.\n")
+question10 = ("True or False: You do not need to brush your gums, only your teeth.\n")
+answers = [
+    ## 1 - dental health SET 1 ##
+    ["true",
+    "false",
+    "true",
+    "false",
+    "true",
+    "true", 
+    "false",
+    "false",
+    "false",
+    "false"],
