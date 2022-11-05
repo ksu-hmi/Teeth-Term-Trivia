@@ -6,7 +6,6 @@ There are several terminologies that dentists and their staff use on a regular b
 
 The dental industry is one of the major medical industries that does not get as much recognition and resources for those entering the field compared to medical. While there are many sources/companies that offfer studying tools for dental industry seekers, Teeth Term Trivia offers an online, interactive open resource with the ability to grow and expand dental terminology insight through python coding. 
 
-#How it Works 
+# How it Works 
 
-Teeth Term Trivia 
 This software will ask for the user's name before introducing them to the various components of the system. After each  response, points will be counted, and the user will be made aware of their score. The user will also have the option to choose another part to review or exit after answering all ten questions. The user also has the option to exit at any point in the game, if necessary.
