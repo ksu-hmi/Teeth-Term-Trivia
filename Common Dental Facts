@@ -41,3 +41,17 @@ question7 = ("What is it called where there is restricted ability to open the mo
 question8 = ("Having the properties of dysplasia, invasion, and metastasis is called?.\n")
 question9 = ("What is a positive reproduction of a body part formed on a cast from a negative impression?\n")
 question10 = ("True or False: Occlusal pertains to the biting surfaces of the premolar and molar teeth or contacting surfaces of opposing teeth or opposing occlusion rims.\n")
+
+    ## 2 - Dental Health Set 2 ##
+    
+    answer1=("True\n")
+    answer2=("False\n") ## The area surrounding the end of the tooth root
+    answer3=("False\n") ## Plaque is a  soft sticky substance that accumulates on teeth composed largely of bacteria and bacterial derivatives.
+    answer4=("False\n") 
+    answer5=("True\n")
+    answer6=("Tracheotomy\n") 
+    answer7=("Trismus\n")
+    answer8=("Malignant\n") 
+    answer9=("Moulage\n")
+    answer10=("True\n")
+
