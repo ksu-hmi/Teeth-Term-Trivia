@@ -58,7 +58,7 @@ question10 = ("True or False: Occlusal pertains to the biting surfaces of the pr
     
 question1 = ("True or False: Normally applied externally to teeth; bleaching be used internally for endodontically treated teeth.\n")
 question2 = ("True or False: Calculus can adhere to crowns and/or roots of teeth or prosthetic devices.\n")
-question3 = ("True or False: Crowns are solely made of metal.\n"")
+question3 = ("True or False: Crowns are solely made of metal.\n"") 
 question4 = ("True or False: Decay is a term describing carious lesions in a tooth.\n")
 question5 = ("True or False: Dentin in the mature state is not mineralized.\n")
 question6 = ("True or False: Enamel is a soft calcified tissue covering dentin of the crown of tooth.\n")
@@ -73,11 +73,11 @@ answers = [
     ## 1 - dental health SET 2 ##
     ["true",
     "true",
-    "false",
+    "false", # It can be made of metal, ceramic or polymer materials or a combination of such materials.
     "true",
-    "false",
-    "true", 
-    "false",
+    "false", # Dentin is mineralized in its mature state
+    "false", # Enamel is a HARD calcified tissue covering dentin of the crown of tooth
     "true",
+    "false", # Fluoride is necessary to maintain healthy teeth.
     "true",
 
