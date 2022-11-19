@@ -26,7 +26,7 @@ question10 = ("True or False: You do not need to brush your gums, only your teet
 
 
 
-## Dental Health Set 2
+## Dental Health Set 2 ##
 
 
 question1 = ("True or False: Palate is the hard and soft tissues forming the roof of the mouth that separates the oral and nasal cavities.\n")
@@ -80,4 +80,28 @@ answers = [
     "true",
     "false", # Fluoride is necessary to maintain healthy teeth.
     "true",
+
+##  Dental Health Set 4 ##
+
+question1 = ("True or False: Alloy is a compound combining two or more elements having properties not existing in any of the single constituent elements.\n”)
+question2 = ("True or False: Parenteral is any technique of administration in which the agent is absorbed through the gastrointestinal (GI) tract or oral mucosa.\n”)
+question3 = ("True or False: Transdermal is a technique of administration in which the drug is administered by patch or iontophoresis through skin.\n”)
+question4 = ("True or False: Inhalation is a technique of administration in which a gaseous or volatile agent is introduced into the lungs and whose primary effect is due to absorption through the gas/blood interface.
+question5 = ("True or False: Enteral is any technique of administration in which the drug bypasses the gastrointestinal tract
+question6 = ("True or False: Intravenous is a technique of administration in which the anesthetic agent is not introduced directly into the patient’s venous system.
+question7 = ("True or False: Transmucosal is muscle fibers covered by a mucous membrane that attaches the cheek, lips and or tongue to associated dental mucosa.\n”)
+question8 = ("True or False: Palliative is an action that relieves pain but is not curative.\n”)
+question9 = ("True or False: Pin is a small rod, cemented or driven into dentin to aid in retention of a restoration.\n”)
+question10 = ("True or False: Rebase is the process of refitting a denture by replacing the base material.\n”)
+
+answer1 (“True\n”)
+answer2 (“False. Enteral”)
+answer3 (“True\n”)
+answer4 (“True\n”)
+answer5 (“False. Parenteral\n”)
+answer6 (“False. Non-Intravenous\n”)
+answer7 (“False. Frenum\n”)
+answer8 (“True\n”)
+answer9 (“True\n”)
+answer10 (“True\n”) 
 
