@@ -1,7 +1,7 @@
 ## Teeth Term Trivia Project Roadmap
 
 ## Sprint 1 Checklist
-- [ ] Create dental term questions from American Dental Association 
+- [x ] Create dental term questions from American Dental Association 
 - [ ] Create 10 questions for Set 1 (Nicole)
 - [ ] Create 10 questions for Set 2 (Jazmyne)
 - [ ] Create 10 questions for Set 3 (Ashana)
