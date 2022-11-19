@@ -3,7 +3,7 @@
 ## Sprint 1 Checklist
 - [x] Create dental term questions from American Dental Association 
 - [x] Create 10 questions for Set 1 (Ziyah)
-- [x] Create 10 questions for Set 2 (Jazmyne)
+- [X] Create 10 questions for Set 2 (Jazmyne)
 - [x] Create 10 questions for Set 3 (Ashana)
 - [x] Create 10 questions for Set 4 (Nicole)
 
