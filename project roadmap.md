@@ -12,5 +12,5 @@
 
 ## Sprint 3 Checklist
 
-- [ ] Prepare a PowerPoint presentation 
-- [ ] Demonstrate the Teeth Term Trivia Game
+- [x] Prepare a PowerPoint presentation 
+- [x] Demonstrate the Teeth Term Trivia Game
